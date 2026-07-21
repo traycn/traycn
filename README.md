@@ -3,7 +3,7 @@
 <h1><img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif" width="50"> Hi, I'm T!</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=10%2B+years+of+software+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=10%2B+years+of+solutions+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon" alt="Typing SVG" />
 </p>
 
 <p>Solutions architect helping companies in end-to-end development with experience in data management, health and wellness, financial technology, identity theft/prevention, public safety, and standards development. </p>
