@@ -6,7 +6,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=10%2B+years+of+solutions+experience;Cross+functional+full-stack+dev;Learning+with+intentional+abandon" alt="Typing SVG" />
 </p>
 
-<p>Solutions architect helping companies in end-to-end development with experience in data management, health and wellness, financial technology, identity theft/prevention, public safety, and standards development. </p>
+<p>Solutions architect. I design systems and stay until they work. Experienced in regulated, high-stakes environments spanning data management, health and wellness, fintech, identity protection, public safety, and standards development.</p>
 
 <p>A little more about me:  </p>
 </div>
